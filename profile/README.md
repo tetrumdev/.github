@@ -1,4 +1,4 @@
-# Tetrum!
+# tetrum!
 
 We're a few guys that occasionally make things.
 
